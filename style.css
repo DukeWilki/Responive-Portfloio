@@ -1,0 +1,34 @@
+body {
+    /* font-family: 'Spicy Rice';font-size: 18px; */
+    /* color: rgb(69, 52, 165); */
+    background: linear-gradient(90deg, rgb(27, 11, 114) 0%, #ffffff 100%);
+    background-image: url(https://cdn.arstechnica.net/wp-content/uploads/2019/04/goghTOP.jpg);
+}
+
+.navbar-brand {
+    color: blue;
+}
+
+.container-fluid {
+    margin: 30px;
+    background-color: white;
+    max-width: 800px;
+}
+
+
+
+.hline { width:100%; height:1px; background: #fff }
+
+.navbarNav {
+    float: navright;
+    margin-right: 100px;
+}
+
+
+.col-sm-4 {
+
+}
+
+.col-sm-8 {
+
+}
