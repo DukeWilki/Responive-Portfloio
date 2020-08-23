@@ -9,64 +9,52 @@
 </head>
 
 <body>
-<div class="wrapper">
 
-<!-- NAVIGATION BAR -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#">Luke</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
+        <a class="navbar-brand" href="#">Luke Wilkinson</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
         </button>
-      
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav navbar-right">
-            <li class="nav-item active">
-              <a class="nav-link" href="#">Contact <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Portfolio</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">About</a>
-            </li>
-          </ul>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav mr-auto">
+            </ul>
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="contact.html">Contact</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="portfolio.html">Portfolio</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="index.html">About<span class="sr-only">(current)</span></a>
+                </li>
+            </ul>
         </div>
     </nav>
 
-<!-- CONTENT IN GRID -->
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-sm-8"><h1>Contact</h1></div>
+
+    <div class="container my-container">
+        <div class="row my-row">
+            <div class="col my-col">
+                <h1>About Me</h1>
+            </div>   
+        </div>
+        <div class="row my-row">
+            <div class="col my-col">
+                <p><p><img id="img-about" src="./assets/img/bigmerino.jpg"  class="img-thumbnail"></img>
+                    Emerging from stone on the Mountain of Flowers and Fruit, Luke soon grew up to be a secret agent of the highest callibre.
+                    This one time, at band camp, Luke challenged Dwayne "The Rock" Johnson to a game of slaps. He won, even scoring 8 birdies, 2 eagles and an albotross.
+                    On the fith day, an accidental overdose of gamma radiation altered his body chemistry; now when he gets angry, he turns into Hollywood Hogan.
+                    In tempus tristique est nec tempor. Vestibulum libero libero, luctus vitae fringilla sed, venenatis sed lectus. Phasellus in nunc tincidunt, feugiat mi eget, egestas massa. 
+                    Pellentesque gravida elit quis tellus malesuada congue. Sed fermentum nunc sit amet urna iaculis, quis viverra lorem pretium.
+                </p>
+            </div>   
+
         </div>
 
-
-
-
-        <div class="row">
-            <div class="col-sm-8">
-            <!-- CONTACT FORM -->
-            <form>
-                <div class="form-group">
-                <label for="formGroupName">Name</label>
-                <input type="text" class="form-control" id="formGroupName" placeholder="Name">
-                </div>
-                <div class="form-group">
-                    <label for="exampleInputEmail1">Email</label>
-                    <input type="email" class="form-control" id="exampleEmail" aria-describedby="email" placeholder="Email">
-                    <!-- <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small> -->
-                  </div>
-                <div class="form-group">
-                <label for="formGroupExampleInput2">Message</label>
-                <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="Message">
-                </div>
-                <button type="submit" class="btn btn-primary">Submit</button>
-            </form>
-                
-            </div>
-        </div>
     </div>
 
 
-</body>
 
-</html>
+
+</body>
