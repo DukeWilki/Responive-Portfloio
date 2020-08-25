@@ -3,7 +3,6 @@ body {
     margin: 10;
     background: linear-gradient(90deg, rgb(27, 11, 114) 0%, #ffffff 100%);
     background-image: url(https://assets.awwwards.com/awards/images/2015/04/pattern.jpg);
-    width: 1200px;
     margin:auto;
  }
 
@@ -11,6 +10,7 @@ body {
 .navbarNav {
     float: navright;
     margin-right: 100px;
+    display: flex;
 }
 
 /* Grid layout styles */
@@ -52,8 +52,8 @@ form {
     }
   }
 
-@media screen and (max-width: 400px) {
+/* @media screen and (max-width: 400px) {
    .my-container {    
    max-width: 300px;
    }
-  }
+  } */
