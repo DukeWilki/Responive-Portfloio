@@ -33,11 +33,14 @@ h2 {
     font-family: 'Gupter', serif;
 }
 
+h5 {
+    font-family: 'Gupter', serif;
+}
+
 img {
-/* border-radius: 4px; */
-width: 150px;
-height: 150px;
-padding: 10px;
+    width: 150px;
+    height: 150px;
+    padding: 10px;
 }
 
 form {
@@ -49,6 +52,15 @@ form {
     float: left;
     margin: 0px 10px 10px 0px;
 }
+
+
+/* Footer Styles */
+footer {
+    background-color: #f8f9fa!important;
+    font-family: 'Gupter', serif;
+    padding-top: 13px;
+}
+
 
 /* Media Querries for responsiveness */
 @media screen and (max-width: 575px) {
