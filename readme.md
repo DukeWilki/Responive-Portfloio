@@ -53,7 +53,7 @@ index.html portfolio.html contact.html style.css plus images
 
 
 ### Link to the App
-<a href="/index.html">Responsive Portfolio</a> is hosted on GitHub<hr>
+<a href="https://dukewilki.github.io/homework02/index.html">Responsive Portfolio</a> is hosted on GitHub<hr>
 
 ### Licence
 Create new file on GitHUB=> name it License.md => select license from the right button
