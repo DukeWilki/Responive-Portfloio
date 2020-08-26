@@ -48,8 +48,8 @@ index.html portfolio.html contact.html style.css plus images
 </p>
 
 ## Screenshot
-![Screenshot 1](https://github.com/DukeWilki/homework02/blob/assets/img/about-page.JPG)
-![Screenshot 2](https://github.com/DukeWilki/homework02/blob/assets/img/m.about-page)
+![Screenshot 1](https://github.com/DukeWilki/homework02/blob/master/assets/img/about-page.JPG)
+![Screenshot 2](https://github.com/DukeWilki/homework02/blob/master/assets/img/m.about-page.JPG)
 
 
 ### Link to the App
