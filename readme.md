@@ -50,10 +50,6 @@ index.html portfolio.html contact.html style.css plus images
 ## Screenshot
 ![Screenshot 1](https://github.com/DukeWilki/homework02/blob/assets/img/about-page.JPG)
 ![Screenshot 2](https://github.com/DukeWilki/homework02/blob/assets/img/m.about-page)
-![Screenshot 3](https://github.com/DukeWilki/homework02/blob/assets/img/portfolio-page.JPG)
-![Screenshot 4](https://github.com/DukeWilki/homework02/blob/assets/img/m.portfolio-page.JPG)
-![Screenshot 5](https://github.com/DukeWilki/homework02/blob/assets/img/contact-page.JPG)
-![Screenshot 6](https://github.com/DukeWilki/homework02/blob/assets/img/m.contact-page.JPG)
 
 
 ### Link to the App
