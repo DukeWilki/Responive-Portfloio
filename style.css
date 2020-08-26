@@ -18,11 +18,17 @@ body {
 .my-container {
     background-color: white;
     max-width: 800px;
-    margin: 60px 60px 60px 20px;
+    margin: 60px 40px 60px 40px;
 }
 
 .my-col {
     padding-bottom: 30px;
+    padding-left: 30px;
+}
+
+.my-row {
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 /* Element styles */
@@ -75,10 +81,11 @@ footer {
 } */
 
 /* Media Querries for responsiveness */
-@media screen and (max-width: 575px) {
+@media screen and (max-width: 577px) {
    .my-container {    
-   max-width: 200px;
-   margin: auto;
-   margin-bottom: 150px;
+   max-width: 500px;
+   margin: 0px;
+   margin-bottom: 130px;
+   padding-left: 20px;
    }
   }
