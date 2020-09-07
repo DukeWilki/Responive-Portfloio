@@ -72,6 +72,11 @@ footer {
     width: 100%;
 }
 
+figcaption {
+    font-size: larger;
+    font-family: 'Gupter', serif;
+}
+
 
 /* footer {
     clear: both;
