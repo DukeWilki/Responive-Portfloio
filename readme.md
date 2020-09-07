@@ -1,4 +1,4 @@
-# Homework Assignment 2 - Responsive Portfolio
+# Responsive Social Media Portfolio
 This assignment was to create a responsive website from scratch using bootstap.
 
 ## Contents
